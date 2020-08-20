@@ -6,7 +6,7 @@ This calculator has been built using the following technologies:
 - HTML 5
 - CSS - grid layout
 
-Life version of calculator can be found here: [Calculator Link](https://codepen.io/AnaStar/pen/wvGzoKo)
+Life version of calculator can be found here: [Calculator Link](https://keen-euler-62d004.netlify.app/)
 
 #### External guides :
 
